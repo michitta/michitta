@@ -5,13 +5,8 @@
 - Sits and snorts...
 
 ## My Socials
-[![discord](https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord)](https://discordapp.com/users/351030467119808514)
-[![github](https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github)](https://github.com/KotOdinochka)
-[![gitlab](https://img.shields.io/static/v1?label=&message=gitlab&color=191919&style=for-the-badge&logo=gitlab)](https://gitlab.com/KotOdinochka)
-[![vk](https://img.shields.io/static/v1?label=&message=VK&color=191919&style=for-the-badge&logo=vk)](https://vk.com/JustLonelyCat)
-[![steam](https://img.shields.io/static/v1?label=&message=steam&color=191919&style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/taiga1love/)
-[![tg](https://img.shields.io/static/v1?label=&message=telegram&color=191919&style=for-the-badge&logo=telegram)](https://t.me/aLonelyCat)
-<!-- [![discord](https://img.shields.io/static/v1?label=&message=Discord%20Server&color=191919&style=for-the-badge&logo=discord)](https://discordapp.com/users/351030467119808514) -->
+[![discord](https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord)](https://discordapp.com/users/421267345147691017)
+[![github](https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github)](https://github.com/FluffyCuteOwO)
 
 ## Tools && Languages
 ### Tools
