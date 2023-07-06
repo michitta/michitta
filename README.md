@@ -1,1 +1,1 @@
-![image](https://github.com/FluffyCuteOwO/FluffyCuteOwO/assets/17436886/e5569095-6354-4987-9fa6-0bbd5cd1ecce)
+![image](https://github.com/michitta/michitta/assets/17436886/20ec0216-9563-45f0-bdcd-70878a27f387)
